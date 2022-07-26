@@ -9,12 +9,14 @@
         "nodemailer": "^6.7.7",
         "nodemon": "^2.0.19"
     },
+    "version": "1.0.0",
+    "main": "index.js",
     "description": "",
     "repository": {
         "type": "git",
         "url": "https://github.com/cheerfullhitchhiker/lavkalavka"
     }, 
     
-    "license" : "MIT license" 
+    "license" : "UNLICENSED" 
     
 }
