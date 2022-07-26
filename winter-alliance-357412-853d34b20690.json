@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "winter-alliance-357412",
+  "private_key_id": "853d34b20690e85f53a0ff0611d7e99ee42e2d65",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD3WLA6TjX/5bW0\nVKgyMdr7bve/Zohl9s/0x+klfs4G1qNOF3qQbT4UPME+Q2uCwnWlbBtlOG+pVyh0\nSGK4uw66oC0N/iYHdWHgyR7bWH593jL3jvWlJtXLEJy96urDhLCiAjwld34arwTF\nnZrIzq+4SdYwbjK215a87SvcV05XkBn+Prd8oK6e+yEVQva3tNS7UAe6d2FFJeWd\ngRwlDD9WIOi0TjIItLTV1Gx4MczNgdL43FlNeQIz2zkoeQEdG7fy/d4lC+MH5nY+\nRAioJresPArYhkFo/jhXa4Aw3jmc2ZTFpY+6GXN5A+swtmyUzBeCelBMyxegoIRM\nLhb+nJ39AgMBAAECggEAAT+FfNm60yFgPaXULNWXIkGLQrs8wrvHXz9DXCMqvDz/\nAkwj9Lc06yELgkg+lM5zmtVcFxtmF9Jecy91WWe5kn6d1W6WqdiJIwUuVEHfGW4W\nudQF40emdwTEm6maQYp/UaDw7NV5nlAo4aibXFvq2NmKVB1JNzo9P4Zs9ZsuTjB3\nb7iMwipUBPIIHaf5Dat2rqXu1hEQLVoS6fKj9+ZmNcA0I+4u7BXxgBt16gseNUPp\nXTnol7ZEQQK23om6bZ68vPgYwlu5mAiKOGsN6kJOIO+W2IhV7NTtj+03MwiwTQ0I\nlMv/bt7C1bqWr6BqtkAtuyTaA5tswMdFByDEYg0zFwKBgQD/hBmzgeOXNsrCoo3X\nrYCRiE/wKUoe5TRt9TOD2UAXIU8Rfdkag8s0xiyhKpQkFc9IKWSApF2sEC1EDzZk\niNJ0Uk/VOS4QADMvx/6ryTHyosYb3VXS3ocekePZKo9ArxKSvaOyZDsazkPJj907\nj3TZxmNWUFflukKSkl9Ti7Ne0wKBgQD30KBm28HNMFq9B/YfZ+MlVF3KYBle37vo\neyoe2X3O3qnPfKuNT+aYXdSThmDbJP3Y/1SyBVgPfcSeVTAKGnH5guAqNn2LhfRI\nOy/MDz8Z4fOgWF4tJf7AB1Jwg+OmDZ+205Cq33BvA74IoX5FHfp97JX8XDfYl3XX\n5HZylhQt7wKBgCtN1RlCIzNGevifmhB6fDat9nZKWSCBUfBsxQ1MbXs+Dut0+61t\ntqu8BmZOFAtFkvq04S6YLLPzjehh96L0OU6zgIovhan6jrJDX9r3Xzqy8YZZbaku\nQ5IfwZDVkK+yvCAYebzLFeVGHeD0O9dTScd6wu0m8q6hcZTrr7I2E/E3AoGACppO\ngpgcbp8HAtd4XFehjFNTv/jknP6Nl6DNaIx9qYA1W79Fx8IHZ7V8BuPU+QtYIRSr\nlwJLhj4nT27to0EGZ1qGJMg4DuQoU37UyLJOTNkyB0ZAoUXi5GxrxoyeDNjAYJ4k\nrmro8JcEZnIiaOqjcQfSUv3PFeFFFXuc5cIuEtkCgYEAtyCStqdPN2vNQsu/UjUG\n4u1HetwHfDYw6Kc5WOH/43BwLPfShvpTMZhbGBVVicYmIucoSoAJYnGp4UKHBFJt\ntrDZfjZ2HUY0CYQyZcl2jGJYCDiIsKYYQhoKmyq7BlER0SrPS+Emd2PpKJEJqbba\nBcdvaYFRp/CCex7CH2SgZMg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lavkalavka-91@winter-alliance-357412.iam.gserviceaccount.com",
+  "client_id": "118113515331552819489",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lavkalavka-91%40winter-alliance-357412.iam.gserviceaccount.com"
+}
