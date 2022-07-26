@@ -12,5 +12,8 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/cheerfullhitchhiker/lavkalavka"
+    }, 
+    {
+    "license" : "MIT license" 
     }
 }
